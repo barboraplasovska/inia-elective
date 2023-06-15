@@ -1,1 +1,3 @@
-# inia-elective
+# AI elective
+
+Introductory AI course.
